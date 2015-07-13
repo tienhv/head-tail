@@ -1,7 +1,7 @@
 """ This is a more efficient version, since it does not read the entire
 file
 """
- 
+"""I do not know how is the original author of this code, I copy then modify it for my usage"""
 import sys
 import os
 
