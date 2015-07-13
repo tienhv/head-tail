@@ -1,0 +1,6 @@
+tail.py
+tail.egg-info/PKG-INFO
+tail.egg-info/SOURCES.txt
+tail.egg-info/dependency_links.txt
+tail.egg-info/entry_points.txt
+tail.egg-info/top_level.txt

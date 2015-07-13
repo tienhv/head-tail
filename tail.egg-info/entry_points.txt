@@ -1,0 +1,4 @@
+
+		[console_scripts]
+		tail=tail:tail2
+	
